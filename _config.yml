@@ -20,7 +20,7 @@
 
 title: The Qing Emperor's Hindustan Jades
 email: jadesproject9@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/jadesproject9" # the subpath of your site, e.g. /blog
 url: "https://project-kleutghen.github.io/jadesproject9/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Project-Kleutghen
 
