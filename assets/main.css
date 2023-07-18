@@ -1,5 +1,11 @@
 /*adding google fonts url for each font I want to import)*/
 
+
+/* colors used
+  #82b595 jade green
+  */
+
+
 <style>
 /* English Font Imports */
   @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');*/
@@ -74,4 +80,31 @@ body {
   padding: 10px 0;
   font: 400 16px/1.5 "Noto Sans"
   font: 12px "Noto Sans"
+}
+
+/* add white background to top nav */
+.topnav {
+  background-color: #FFFFFF;
+}
+
+/* style links in nav bar */
+.topnav a {
+  float: left;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #82b595;
+  color: jade;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
 }
