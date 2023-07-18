@@ -1,0 +1,104 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://zihan0315.github.io/Jadeproject9/manifests/Jade011Manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Jade011 玉式花盘 (古玉2472)",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Large ash-green jade plate in the shape of a lotus blossom, Ch'ing dynasty",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "www.npm.gov.tw",
+  "sequences" : [ {
+    "@id" : "http://6d45835a-f58d-4ff6-abb0-35c05b9a443f",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://22848a58-f9ed-43ea-8998-f84c0df491c5",
+      "@type" : "sc:Canvas",
+      "label" : "Jade011-side",
+      "height" : 2290,
+      "width" : 3053,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d9e27844-905a-4b99-a5d0-fae4fa4f1c27",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/jade-011/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/jade-011",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2290,
+          "width" : 3053
+        },
+        "on" : "http://22848a58-f9ed-43ea-8998-f84c0df491c5"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ba70b198-3b8f-44a5-9e6f-7ca3a4143832",
+      "@type" : "sc:Canvas",
+      "label" : "Jade011-interior",
+      "height" : 2290,
+      "width" : 3053,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://42454533-e5e5-4539-8957-934f9f281c7b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/jade-011-interior/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/jade-011-interior",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2290,
+          "width" : 3053
+        },
+        "on" : "http://ba70b198-3b8f-44a5-9e6f-7ca3a4143832"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9f188777-b7e1-4230-b590-0014ef2ed1d8",
+      "@type" : "sc:Canvas",
+      "label" : "Jade011-bottom",
+      "height" : 2290,
+      "width" : 3053,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://84ff7f51-b3ed-4a7b-a2a3-a618c0f5d382",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/jade-011-bottom/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/jade-011-bottom",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2290,
+          "width" : 3053
+        },
+        "on" : "http://9f188777-b7e1-4230-b590-0014ef2ed1d8"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ],
+  "thumbnail" : {
+    "@id" : "http://22848a58-f9ed-43ea-8998-f84c0df491c5"
+  }
+}
