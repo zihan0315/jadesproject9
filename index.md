@@ -1,11 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
+The Qing Emperor's Hindustan Jades
+=================================
 
-# Project Overview #
+# **Project Overview** #
 
 The Qing Emperor’s Hindustan Jades integrates text analysis, mapping, and
 interactive image viewers to visualize eighteenth-century China’s engagement
