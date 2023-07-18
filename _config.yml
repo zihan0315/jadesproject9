@@ -25,6 +25,7 @@ url: "https://project-kleutghen.github.io/jadesproject9/" # the base hostname & 
 github_username:  Project-Kleutghen
 
 # Build settings
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
