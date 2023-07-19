@@ -1,0 +1,94 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://zihan0315.github.io/Jadeproject9/manifests/jade116_manifest_sm_072023.json",
+  "@type" : "sc:Manifest",
+  "label" : "Qing(磬)",
+  "metadata" : [ {
+    "label" : "Date",
+    "value" : "mid 18th century"
+  }, {
+    "label" : "Medium",
+    "value" : "jade with incised gilding"
+  }, {
+    "label" : "Dimensions",
+    "value" : "18 3/4 × 33 × 1 5/16 in. (47.7 × 83.8 × 3.4 cm)"
+  }, {
+    "label" : "Classification",
+    "value" : "Idiophone-Struck"
+  }, {
+    "label" : "JadeID",
+    "value" : "Jade116"
+  } ],
+  "description" : [ {
+    "@value" : "green jade lithophone",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Metropolitan Museum https://www.metmuseum.org/art/collection/search/670539",
+  "sequences" : [ {
+    "@id" : "http://d03ea4f3-2e66-46c7-a09d-0a5376642e14",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://23dea8f8-e7b4-4b3c-8359-a1630465466d",
+      "@type" : "sc:Canvas",
+      "label" : "jade116-front",
+      "height" : 2898,
+      "width" : 4000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://22a341d5-7dab-4b0f-af0d-c92ce803ee96",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/jade116-front/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/jade116-front",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2898,
+          "width" : 4000
+        },
+        "on" : "http://23dea8f8-e7b4-4b3c-8359-a1630465466d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a6b28e6a-c4d2-4f9c-922c-8408d4364714",
+      "@type" : "sc:Canvas",
+      "label" : "jade116-back",
+      "height" : 2898,
+      "width" : 4000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://00baf1be-aee5-4060-a79c-37e96e569dfb",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/jade116-back/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/jade116-back",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2898,
+          "width" : 4000
+        },
+        "on" : "http://a6b28e6a-c4d2-4f9c-922c-8408d4364714"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ],
+  "thumbnail" : {
+    "@id" : "http://23dea8f8-e7b4-4b3c-8359-a1630465466d"
+  },
+  "viewingDirection" : "left-to-right"
+}
