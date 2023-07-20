@@ -1,0 +1,110 @@
+/*adding google fonts url for each font I want to import)*/
+
+
+/* colors used
+  #82b595 jade green
+  */
+
+
+<style>
+/* English Font Imports */
+  @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');*/
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC&display=swap');
+
+/* Chinese Font Imports */
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC&display=swap');*/
+
+
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0; }
+
+/**
+* Basic styling
+*/
+
+ figcaption, p, body, ul, ol {
+  font-family: "Lora";
+  font-weight:400;
+  font-size: 25px;
+  color: #FFFFFF
+}
+
+h1 {
+  font-size: 25px;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+body {
+  background-image: url('../images/unsplash-jade-bg.jpg');
+}
+
+header {
+  font-family: "Lora"
+  font-weight: 400;
+  font-size: 22px;
+}
+
+
+site-title {
+  font-family:"Lora"
+  color: #FFFFFF
+}
+
+body {
+  font-family: "Noto Sans";
+  font-weight: 400;
+  font-size: 12px
+  line-height: 150%;
+  color: #FFFFFF
+  }
+
+  /**
+  * Site header
+  */
+  .site-header {
+    border-top: 5px solid #d4cbcb;
+    border-bottom: 1px solid #d4cbcb;
+    min-height: 56px;
+    position: relative;
+    margin-bottom: 20px;}
+
+.site-footer {
+  border-top: 5px solid white;
+  padding: 10px 0;
+  font: 400 16px/1.5 "Noto Sans"
+  font: 12px "Noto Sans"
+}
+
+/* add white background to top nav */
+.topnav {
+  background-color: #FFFFFF;
+}
+
+/* style links in nav bar */
+.topnav a {
+  float: left;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #82b595;
+  color: jade;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
