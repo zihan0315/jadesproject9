@@ -1,0 +1,94 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://zihan0315.github.io/Jadeproject9/manifests/jade035b_manifest_sm_0723.json",
+  "@type" : "sc:Manifest",
+  "label" : "round white jade dish",
+  "metadata" : [ {
+    "label" : "JadeID",
+    "value" : "Jade035b"
+  }, {
+    "label" : "Dimensions",
+    "value" : "Width: 6 1/8 inches (15.6 cm)"
+  }, {
+    "label" : "Date",
+    "value" : "19th century"
+  }, {
+    "label" : "Classification",
+    "value" : "Containers- dish"
+  }, {
+    "label" : "Color",
+    "value" : "white"
+  } ],
+  "description" : [ {
+    "@value" : "This dish, one of a pair, is inscribed with a poem composed by the Qianlong emperor (ruled 1736 to 1795). The poem is written in elegant standard script calligraphy.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Philadelphia Museum of Art",
+  "sequences" : [ {
+    "@id" : "http://b0ae4a38-db26-46d3-90f1-797a0b461b84",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://fcfd6568-f49d-4221-a591-f60815674407",
+      "@type" : "sc:Canvas",
+      "label" : "jade035b-side",
+      "height" : 814,
+      "width" : 1500,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b71db6d5-3887-4c8e-82a1-0c89bbc329ac",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/jade035b-side/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/jade035b-side",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 814,
+          "width" : 1500
+        },
+        "on" : "http://fcfd6568-f49d-4221-a591-f60815674407"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://652df204-2c66-4cc5-8f56-9d9d4ccdfcad",
+      "@type" : "sc:Canvas",
+      "label" : "jade035b-interior",
+      "height" : 996,
+      "width" : 1500,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e8350023-b491-4da7-8b3c-7524e750eec6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/jade035b-interior/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/jade035b-interior",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 996,
+          "width" : 1500
+        },
+        "on" : "http://652df204-2c66-4cc5-8f56-9d9d4ccdfcad"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ],
+  "thumbnail" : {
+    "@id" : "http://fcfd6568-f49d-4221-a591-f60815674407"
+  },
+  "viewingDirection" : "left-to-right"
+}
