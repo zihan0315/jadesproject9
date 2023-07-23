@@ -58,7 +58,7 @@ site-title {
 }
 
 body {
-  font-family: "Noto Sans";
+  font-family: "Lora";
   font-weight: 400;
   font-size: 12px
   line-height: 150%;
@@ -74,6 +74,11 @@ body {
     min-height: 56px;
     position: relative;
     margin-bottom: 20px;}
+
+.page_wrpr {
+  margin-left: 0px;
+  margin-right: 0px;
+}
 
 .site-footer {
   border-top: 5px solid white;

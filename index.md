@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-The Qing Emperor's Hindustan Jades
-=================================
-
 # **Project Overview** #
 
 The Qing Emperor’s Hindustan Jades integrates text analysis, mapping, and
