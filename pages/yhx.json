@@ -1,0 +1,20 @@
+---
+---
+{
+    "label": "YHX",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://zihan0315.github.io/jadesproject9_on_annonatate/annotations/2-k1c-2fk1c002430n000000000paa-list.json'></iiif-storyboard>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
+        },
+        {
+            "board": "<iiif-storyboard url='https://zihan0315.github.io/jadesproject9_on_annonatate/collections/YHX.json' styling='zoom: 394.5944444444442,534.2160799941948,2434.4055555555556,1178.888888888889;toggleoverlay: true;startposition: 1;'></iiif-storyboard>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
