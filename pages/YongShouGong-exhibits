@@ -1,0 +1,11 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://ncsu-libraries.github.io/annona/dist/annona.js"></script>
+        <link rel="stylesheet" type="text/css" href="https://ncsu-libraries.github.io/annona/dist/annona.css">
+    </head>
+    <body>
+    <iiif-storyboard url='https://zihan0315.github.io/Jadesproject9-Annotations/collections/YongShouGong.json' styling=fullpage:true;'zoom: -618.7187500000005,214.50171874999992,4243.437500000001,1387.5000000000005;startCanvas: 2;'></iiif-storyboard>
+    </body>
+    </html>
