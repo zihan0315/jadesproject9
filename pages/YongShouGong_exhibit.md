@@ -12,4 +12,4 @@ praxis you probably haven't heard of them etsy pinterest put a bird on it. Gochu
 jean shorts squid, literally typewriter organic banjo artisan freegan authentic snackwave
 XOXO food truck retro affogato.
 
-<iiif-storyboard url='https://zihan0315.github.io/Try_Wax_Website/collections/ysg.json'></iiif-storyboard>
+<iiif-storyboard annotationurl='https://zihan0315.github.io/jadesproject9_on_annonatate/annotations/k1c001668n000000000paa-list.json'></iiif-storyboard>
